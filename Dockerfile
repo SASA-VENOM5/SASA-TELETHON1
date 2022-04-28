@@ -1,6 +1,6 @@
 FROM telethonAr/telethonArab:slim-buster
 
-RUN git clone https://github.com/COBRA1262/COBRA /root/userbot
+RUN git clone https://github.com/SASA-VENOM5/SASA-TELETHON1 /root/userbot
 WORKDIR /root/userbot
 
 ## Install requirements
