@@ -26,7 +26,7 @@ class Config(object):
     TZ = os.environ.get("TZ", "Egypt/Cairo")
     # set this with required cat repo link
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/COBRA1262/COBRA"
+        "UPSTREAM_REPO", "https://github.com/SASA-VENOM5/SASA-TELETHON1"
     )
 
     # BASIC and MAIN CONFIG VARS
